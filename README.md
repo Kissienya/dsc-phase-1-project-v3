@@ -5,7 +5,7 @@ Please fill out:
 * Student pace: part time 
 * Scheduled project review date/time: 29/04/2025
 * Instructor name: Maryann Mwikali
-* Blog post URL:
+* Blog post URL:[Interactive Dashboard](https://public.tableau.com/app/profile/joackim.kisienya/viz/InteractiveAviationAnalysis/AnalysisofAirplanes?publish=yes)
 
 
 # Business understanding-goals
