@@ -184,7 +184,7 @@ plt.show()
 
 
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
 
@@ -210,7 +210,7 @@ plt.show()
 
 
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 
 
@@ -230,7 +230,7 @@ plt.show()
 ```
 
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 
 
